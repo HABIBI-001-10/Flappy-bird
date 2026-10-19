@@ -297,7 +297,7 @@ for pipe in pipes:
 
 3. **Install dependencies:**
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
    ```
 
 4. **Run the game:**
